@@ -29,3 +29,30 @@
     color: #6600cc;
   }
   
+  /* Style for the table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  /* Hover effect for character name */
+.solness:hover {
+    box-shadow: 5px 5px 10px #FF5733; /* Shadow with color and blur */
+    border: 2px solid #FF5733; /* Border with an interesting color */
+  }
+  
+  
