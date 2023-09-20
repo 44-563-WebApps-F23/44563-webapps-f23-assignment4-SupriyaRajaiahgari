@@ -27,9 +27,7 @@
   .MRS {
     color: #0ebd22;
   }
-  
-  /* Style for the table */
-table {
+  table {
     border-collapse: collapse;
     width: 100%;
   }
@@ -45,11 +43,6 @@ table {
   }
   
   th {
-    background-color: #4CAF50;
+    background-color: #010a01;
     color: white;
-  }
-  /* Hover effect for character name */
-.solness:hover {
-    box-shadow: 5px 5px 10px #FF5733; /* Shadow with color and blur */
-    border: 2px solid #FF5733; /* Border with an interesting color */
   }
