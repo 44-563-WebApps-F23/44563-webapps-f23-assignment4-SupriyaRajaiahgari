@@ -6,7 +6,7 @@
   .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
-    color: black;
+    color: rgb(3, 18, 3);
     background-color: #f0f0f0;
     transition: background-color 0.3s, color 0.3s;
   }
@@ -24,8 +24,8 @@
     color: #ba107f;
   }
   
-  .MRS {
-    color: #0ebd22;
+  .MRSSOLNESS{
+    color: #069a17;
   }
   table {
     border-collapse: collapse;
